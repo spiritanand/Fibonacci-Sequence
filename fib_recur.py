@@ -13,7 +13,7 @@ def recycle(n):
 
     :return: This function returns the fibonacci sequence to the nth term
     using recursion and memoization.
-    Here memoization has been done explicitly
+    Here memoization has been done explicitly..
     """
     # Incase we have cached the value already then simply return it
     if n in fib_cache:
